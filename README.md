@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Yesmine 👋
 
-<!--
-**yesmine053/yesmine053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year Information Systems Development Student at ISET Sousse
 
-Here are some ideas to get you started:
+💻 Interested in:
+- Web Development
+- Artificial Intelligence
+- Data Analysis
+- Cybersecurity
+- Robotics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌱 Currently Learning:
+- Spring Boot
+- React
+- Machine Learning
+
+📫 Contact:
+- LinkedIn: https://www.linkedin.com/in/yesmine-boukrayaa-245b35348/
+- Email: bkyesmina053@gmail.com
+
